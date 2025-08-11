@@ -9,17 +9,19 @@ I’m a software developer passionate about creating clean, efficient, and scala
 ## 🚀 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaan-karahasan/" target="_blank" style="margin-right:20px; text-decoration:none; color: inherit;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="vertical-align:middle; margin-right:8px;" /> LinkedIn
+  <a href="https://www.linkedin.com/in/kaan-karahasan/" target="_blank" style="margin: 0 20px; text-decoration:none; color: inherit;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" /><br/>
+    LinkedIn
   </a>
-  <a href="https://instagram.com/kaan" target="_blank" style="margin-right:20px; text-decoration:none; color: inherit;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40" style="vertical-align:middle; margin-right:8px;" /> Instagram
+  <a href="https://instagram.com/kaan" target="_blank" style="margin: 0 20px; text-decoration:none; color: inherit;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40" /><br/>
+    Instagram
   </a>
-  <a href="mailto:kaan@example.com" style="text-decoration:none; color: inherit;">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="40" height="40" style="vertical-align:middle; margin-right:8px;" /> Email
+  <a href="mailto:kaan@example.com" style="margin: 0 20px; text-decoration:none; color: inherit;">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="40" height="40" /><br/>
+    Email
   </a>
 </p>
-
 
 ---
 
@@ -52,23 +54,5 @@ I’m a software developer passionate about creating clean, efficient, and scala
     </td>
   </tr>
 </table>
-
----
-
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kaan-karahasan/kaan-karahasan/main/github-contribution-grid-snake.svg" alt="Kaan Karahasan's GitHub Contribution Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/kaan-karahasan">
-    <img src="https://github-profile-trophy.vercel.app/?username=kaan-karahasan&theme=radical&row=1" alt="GitHub Trophies" />
-  </a>
-</p>
 
 ---
