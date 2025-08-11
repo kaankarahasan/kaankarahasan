@@ -8,20 +8,18 @@ I’m a software developer passionate about creating clean, efficient, and scala
 
 ## 🚀 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaan-karahasan/" target="_blank" style="display: inline-block; margin: 0 15px; text-decoration:none; color: inherit;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" /><br/>
-    LinkedIn
-  </a>
-  <a href="https://instagram.com/kaan" target="_blank" style="display: inline-block; margin: 0 15px; text-decoration:none; color: inherit;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40" /><br/>
-    Instagram
-  </a>
-  <a href="mailto:kaan@example.com" style="display: inline-block; margin: 0 15px; text-decoration:none; color: inherit;">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="40" height="40" /><br/>
-    Email
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/kaan-karahasan/" target="_blank" style="text-decoration:none; color: inherit; display:inline-block; text-align:center; margin-right:25px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" /><br />
+  LinkedIn
+</a>
+<a href="https://instagram.com/kaan" target="_blank" style="text-decoration:none; color: inherit; display:inline-block; text-align:center; margin-right:25px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40" /><br />
+  Instagram
+</a>
+<a href="mailto:kaan@example.com" style="text-decoration:none; color: inherit; display:inline-block; text-align:center;">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="40" height="40" /><br />
+  Email
+</a>
 
 ---
 
