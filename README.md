@@ -9,7 +9,7 @@ I’m a software developer passionate about creating clean, efficient, and scala
 ## 🚀 Connect with Me
 
 <p align="center">
-  <a href="[www.linkedin.com/in/kaankarahasan](https://www.linkedin.com/in/kaankarahasan/)" target="_blank" style="display:inline-block; margin: 0 15px;">
+  <a href="www.linkedin.com/in/kaankarahasan" target="_blank" style="display:inline-block; margin: 0 15px;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="https://www.instagram.com/karahasankaan/$0" target="_blank" style="display:inline-block; margin: 0 15px;">
